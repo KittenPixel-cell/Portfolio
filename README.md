@@ -21,6 +21,7 @@ game.ReplicatedStorage.Announcement:FireAllClients("Initalizing Reactor Startup.
 			end
 			
 		end
-	end```
+	end
+```
 
 Its the core startup. Here is the old one so yall can see what it was https://www.roblox.com/games/8228365129/Astral-Science-Energy-Research-Space-Station I have also taken advantage over the years to learn more and I am willing to go through what ever training it takes to join new game projects, or show of my work in real time, if I forgot something what do I do go straight the the dev forms I like to see if someone posted on it first if they didn't do it myself because it makes me learn more by doing it my self.
