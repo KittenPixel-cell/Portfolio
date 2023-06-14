@@ -1,13 +1,11 @@
 # KittenPixel's Personal Portfolio
 
-As this is my Personal Portfolio I will first explain how I got into programming when I was about 11 I got into programming and made my first roblox game, my friends loved it now that im 13 I can make more advanced stuff, and my most advanced game so far was a core game I went through self teaching stuff and it took 2 months to finish the core game. I have made the core game when I was younger and a remake is being worked on this is some of the code thats in the remake ```wait(2)
+As this is my Personal Portfolio I will first explain how I got into programming when I was about 11 I got into programming and made my first roblox game, my friends loved it now that im 13 I can make more advanced stuff, and my most advanced game so far was a core game I went through self teaching stuff and it took 2 months to finish the core game. I have made the core game when I was younger and a remake is being worked on this is some of the code thats in the remake ```
+local Sounds = game.Workspace:WaitForChild("sounds")
+local Values = game.Workspace:WaitForChild("Values")
+local Screen = game.Workspace:WaitForChild("Total")
 
-local Sounds = game.Workspace.sounds
-local Values = game.Workspace.Values
-
-local Screen = game.Workspace.Total
-
-local Reactor = game.Workspace.Reactor.Components
+local Reactor = game.Workspace:WaitForChild("Reactor"):WaitForChild("Components")
 
 script.Parent.TextButton.MouseButton1Down:Connect(function()
 	game.ReplicatedStorage.Announcement:FireAllClients("Initalizing Reactor Startup.")
