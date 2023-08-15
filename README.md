@@ -27,7 +27,9 @@ https://www.roblox.com/games/14340789190/Application-Center
 
 This is the first game I made which fully works and is having a remake done. Please don't mind the icon of the game I know its bad. Icon text is also off.
 ------------------------------------------------------
+
 <img src="https://raw.githubusercontent.com/KittenPixel-cell/Portfolio/main/Screenshot%202023-08-14%20195748.png">
+
 ------------------------------------------------------
 https://www.roblox.com/games/8228365129/Astral-Science-Energy-Research-Space-Station
 
