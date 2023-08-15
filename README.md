@@ -4,7 +4,7 @@ This is my portfolio.
 
 <h2>About</h2>
 
-I have been developing for about 3 years now in Lua, c#, java script, and much more. I am mainly focused on Roblox development as I have most experience in Roblox studio.
+I have been developing for about 3 years now in Lua, c#, javascript, and much more. I am mainly focused on Roblox development as I have the most experience in Roblox studio.
 
 <h2>How I started</h2>
 
@@ -25,7 +25,7 @@ https://www.roblox.com/games/14340789190/Application-Center
 
 <h2>Simple core game.</h2>
 
-This is the first game I made which fully works and is having a remake done. Please don't mind the icon of the game I know its bad. Icon text is also off.
+This is the first game I made that works and is having a remake done. Please don't mind the icon of the game I know it's bad. The icon text is also off.
 ------------------------------------------------------
 
 <img src="https://raw.githubusercontent.com/KittenPixel-cell/Portfolio/main/Screenshot%202023-08-14%20195748.png">
@@ -33,7 +33,7 @@ This is the first game I made which fully works and is having a remake done. Ple
 ------------------------------------------------------
 https://www.roblox.com/games/8228365129/Astral-Science-Energy-Research-Space-Station
 
-<h2>Contact?</h2>
+<h2>Contact</h2>
 
 Email: gamergirl@hedlin.com
 Discord: KittenPixel
