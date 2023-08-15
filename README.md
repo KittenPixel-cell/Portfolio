@@ -1,5 +1,6 @@
 <h1 align="center">KITTENPIXEL'S Portfolio</h1>
-<img src="">
+
+This is my portfolio.
 
 <h2>About</h2>
 
