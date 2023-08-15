@@ -1,8 +1,34 @@
-# KittenPixel's Personal Portfolio
+<h1 align="center">KITTENPIXEL'S Portfolio</h1>
+<img src="">
 
-As this is my Personal Portfolio I will first explain how I got into programming when I was about 11 I got into programming and made my first Roblox game, and my friends loved it now that I'm 14 I can make even more advanced stuff, and my most advanced game so far was a core game I went through self-teaching stuff and it took 2 months to finish the core game. I made the core game when I was younger and a remake is being worked I will add its src to the private repository I give to my interviewers once it's done.
+<h2>About</h2>
 
-It's the core startup. Here is the old one so yall can see what it was https://www.roblox.com/games/8228365129/Astral-Science-Energy-Research-Space-Station I have also taken advantage over the years to learn more and I am willing to go through whatever training it takes to join new game projects, or show of my work in real-time if I forgot something what do I do go straight the dev forms I like to see if someone posted on it first if they didn't do it myself because it makes me learn more by doing it my self.
+I have been developing for about 3 years now in Lua, c#, java script, and much more. I am mainly focused on Roblox development as I have most experience in Roblox studio.
 
-Contact Me:
-gamergirl@hedlin.com
+<h2>How I started</h2>
+
+I started since I looked up to my dad who is a programmer and software engineer which inspired me to start programming.
+
+<h2>Past Work</h2>
+
+<h2>Fully working application center I made.</h2>
+This is for my SCPF. 
+
+The reading application in the game does not work yet.
+------------------------------------------------------
+<img src="https://raw.githubusercontent.com/KittenPixel-cell/Portfolio/main/Screenshot%202023-08-14%20195145.png">
+------------------------------------------------------
+https://www.roblox.com/games/14340789190/Application-Center
+
+<h2>Simple core game.</h2>
+
+This is the first game I made which fully works and is having a remake done. Please don't mind the icon of the game I know its bad. Icon text is also off.
+------------------------------------------------------
+<img src="https://raw.githubusercontent.com/KittenPixel-cell/Portfolio/main/Screenshot%202023-08-14%20195748.png">
+------------------------------------------------------
+https://www.roblox.com/games/8228365129/Astral-Science-Energy-Research-Space-Station
+
+<h2>Contact?</h2>
+
+Email: gamergirl@hedlin.com
+Discord: KittenPixel
