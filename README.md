@@ -16,9 +16,9 @@ I started since I looked up to my dad who is a programmer and software engineer 
 This is for my SCPF. 
 
 The reading application in the game does not work yet.
-------------------------------------------------------
+
 <img src="https://raw.githubusercontent.com/KittenPixel-cell/Portfolio/main/Screenshot%202023-08-14%20195145.png">
-------------------------------------------------------
+
 https://www.roblox.com/games/14340789190/Application-Center
 
 <h2>Simple core game.</h2>
